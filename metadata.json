@@ -1,0 +1,7 @@
+{
+  "name": "Treadmill Pose Sync",
+  "description": "Synchronizes webcam pose estimation with treadmill telemetry and controls speed/incline scenarios.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
